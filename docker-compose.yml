@@ -1,0 +1,11 @@
+services:
+  django:
+    container_name: django 
+    build: 
+      context: ./challenge
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes: 
+      - ./challenge:/usr/src/app/
+    ports: 
+      - 8001:8000
+
