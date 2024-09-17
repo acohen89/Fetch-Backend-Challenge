@@ -1,5 +1,5 @@
 
-# Fetch Backend Challenge
+# Fetch Backend Challenge - Adam Cohen
 
 Please follow these steps:   
 1. Start up docker destkop 
