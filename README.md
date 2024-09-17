@@ -14,9 +14,8 @@ For points, hit http://localhost:8001/api/receipts/{id}/points
 If you would like to use the unit tests provided please complete steps 1-6 above and then begin here:   
 1. Change directory to ```challenge``` folder (```cd challenge/```)
 2. Install python at the following link: https://www.python.org/downloads/
-3. Once installed, install the required packages 
-4. Type ```pip install requests```
-5. Once completed type ```python -m unittest```
+3. Once installed, install the required packages by typing ```pip install requests```
+5. Once completed, type ```python -m unittest``` to run
 
 
 
